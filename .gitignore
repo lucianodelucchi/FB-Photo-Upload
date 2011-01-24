@@ -1,7 +1,8 @@
-obj/*
-bin/*
+obj
+bin
 deploy
 deploy/*
+*.config
 _ReSharper.*
 *.csproj.user
 *.resharper.user
